@@ -1,6 +1,8 @@
 # Kubian
 Connecting all sorts of computers into a [Kubernetes](https://kubernetes.io) (version 1.28) cluster based on [Debian 12](https://www.debian.org)
 
+## Documentation: visit our [wiki](https://github.com/CodiePP/kubian/wiki)
+
 ## Feature list
 
 * simple setup procedure using `kubeadm`
