@@ -19,7 +19,7 @@ Connecting all sorts of computers into a [Kubernetes](https://kubernetes.io) (ve
 * management console [OpenLens](https://github.com/MuhammedKalkan/OpenLens)
 * private Docker image registry to feed your pods
     - image: [registry:2](https://hub.docker.com/_/registry)
-
+* CI/CD pipelines can be realised with [Tekton](https://github.com/tektoncd/pipeline/blob/main/docs/developers/README.md)
 
 ## Wish list
 
@@ -27,4 +27,3 @@ Connecting all sorts of computers into a [Kubernetes](https://kubernetes.io) (ve
 * more master nodes for redundancy
 * joining of mobile phones running "termux" or "userland" (?)
 * joining of 32bit armv7 SBC boards (?)
-* job queueing system
