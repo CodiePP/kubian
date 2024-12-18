@@ -1,5 +1,5 @@
 # Kubian
-Connecting all sorts of computers into a [Kubernetes](https://kubernetes.io) (version 1.31 ~1.28~) cluster based on [Debian 12](https://www.debian.org)
+Connecting all sorts of computers into a [Kubernetes](https://kubernetes.io) (version 1.32 ~1.28~) cluster based on [Debian 12](https://www.debian.org)
 
 ## Documentation:
 
