@@ -15,7 +15,7 @@ Connecting all sorts of computers into a [Kubernetes](https://kubernetes.io) (ve
     - Windows: [VirtualBox](https://www.virtualbox.org/)
     - macOS: [UTM](https://mac.getutm.app/)
     - Linux: [libvirtd](https://libvirt.org/)
-    - FreeBSD: [bhyve](https://docs.freebsd.org/en/books/handbook/virtualization/#virtualization-bhyve-zfs)
+    - FreeBSD: [bhyve](https://docs.freebsd.org/en/books/handbook/virtualization/#virtualization-bhyve-zfs) [vm-bhyve](https://github.com/churchers/vm-bhyve/wiki/Quickstart)
 * node metrics captured with [Prometheus](https://prometheus.io) and visualised using [Grafana](https://grafana.com)
     - project: [kube-prometheus](https://github.com/prometheus-operator/kube-prometheus)
 * management console [OpenLens](https://github.com/MuhammedKalkan/OpenLens)
